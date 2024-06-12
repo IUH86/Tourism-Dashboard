@@ -49,7 +49,6 @@ The dashboard integrates data from the following sources:
      - Monthly Climate Variables: Line charts for temperature, wind speed, and humidity.
      - Correlation Between Climate Variables and Tourist Arrivals: Scatter plot showing correlations.
    - **Filtering Criteria**: Year.
-   - [View PDF](docs/ClimateImpact.pdf)
 
 4. **Visitor Demographics and Behavior Page**:
    - **Visuals**:
@@ -57,7 +56,6 @@ The dashboard integrates data from the following sources:
      - Average Duration of Stay: Bar chart for average stay duration.
      - Visitor Demographics: Bar charts for age and gender data.
    - **Filtering Criteria**: Year.
-   - [View PDF](docs/VisitorDemographics.pdf)
 
 5. **Feedback and Reviews Page**:
    - **Visuals**:
