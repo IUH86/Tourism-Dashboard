@@ -27,7 +27,7 @@ The dashboard integrates data from the following sources:
 ### Features
 
 1. **Overview Page**:
-   - **Visuals**:
+     ![STI 1 (dragged)](https://github.com/IUH86/Tourism-Dashboard/assets/57790510/67c04adc-ae44-4c69-878a-9075feb2938f)
      - Tourist Arrivals Trend: Line chart depicting annual tourist arrivals.
      - Monthly Tourist Arrivals Comparison: Multi-line chart for monthly comparisons.
      - Top 10 Source Markets: Bar chart showing leading countries by tourist numbers.
@@ -36,7 +36,7 @@ The dashboard integrates data from the following sources:
 
 
 2. **Accommodation Page**:
-   - **Visuals**:
+![STI 1 (dragged) 2](https://github.com/IUH86/Tourism-Dashboard/assets/57790510/0674e62b-86cc-4b07-8c01-99a9e170a623)
      - Accommodation Establishments and Room Inventory: Stacked bar chart for establishments and room counts.
      - Province-wise Distribution of Classified Hotels: Choropleth map highlighting hotel distribution.
      - Occupancy Rates by Month: Line chart for monthly occupancy rates.
@@ -45,13 +45,13 @@ The dashboard integrates data from the following sources:
   
 
 3. **Climate Impact Page**:
-   - **Visuals**:
+ ![STI 1 (dragged) 3](https://github.com/IUH86/Tourism-Dashboard/assets/57790510/1b292215-112e-4113-9a70-7494683a1f38)
      - Monthly Climate Variables: Line charts for temperature, wind speed, and humidity.
      - Correlation Between Climate Variables and Tourist Arrivals: Scatter plot showing correlations.
    - **Filtering Criteria**: Year.
 
 4. **Visitor Demographics and Behavior Page**:
-   - **Visuals**:
+  ![STI 1 (dragged) 4](https://github.com/IUH86/Tourism-Dashboard/assets/57790510/d7745b23-7699-44c6-b42b-bd02554449b6)
      - Purpose of Visit: Pie chart for visit purposes.
      - Average Duration of Stay: Bar chart for average stay duration.
      - Visitor Demographics: Bar charts for age and gender data.
@@ -59,6 +59,7 @@ The dashboard integrates data from the following sources:
 
 5. **Feedback and Reviews Page**:
    - **Visuals**:
+![STI 1 (dragged) 5](https://github.com/IUH86/Tourism-Dashboard/assets/57790510/0db126fc-e006-4d70-b8ef-c9d06a400d2a)
      - Sentiment Analysis of TripAdvisor Reviews: Line chart for sentiment trends.
      - Word Cloud of Common Review Topics: Word cloud visualization.
      - Average Rating by Destination: Bar chart for destination ratings.
