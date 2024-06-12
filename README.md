@@ -4,6 +4,7 @@
 
 Software Engineering Teaching Unit, Faculty of Science, University of Kelaniya, Sri Lanka
 
+![1](https://github.com/IUH86/Tourism-Dashboard/assets/57790510/b5fde8a3-6a91-4b03-9501-38d7b23ee67b)
 ---
 
 ## Overview
@@ -32,7 +33,7 @@ The dashboard integrates data from the following sources:
      - Top 10 Source Markets: Bar chart showing leading countries by tourist numbers.
      - Tourism Revenue and Average Expenditure: Score cards and Dual line chart illustrating revenue and expenditure trends.
    - **Filtering Criteria**: Year.
-   - [View PDF](docs/Overview.pdf)
+
 
 2. **Accommodation Page**:
    - **Visuals**:
@@ -41,7 +42,7 @@ The dashboard integrates data from the following sources:
      - Occupancy Rates by Month: Line chart for monthly occupancy rates.
      - District-wise Distribution of Rooms: Heatmap for room distribution by district.
    - **Filtering Criteria**: Year, province/district.
-   - [View PDF](docs/Accommodation.pdf)
+  
 
 3. **Climate Impact Page**:
    - **Visuals**:
@@ -64,7 +65,7 @@ The dashboard integrates data from the following sources:
      - Word Cloud of Common Review Topics: Word cloud visualization.
      - Average Rating by Destination: Bar chart for destination ratings.
    - **Filtering Criteria**: Year, destination.
-   - [View PDF](docs/FeedbackReviews.pdf)
+
 
 # Contact
 
